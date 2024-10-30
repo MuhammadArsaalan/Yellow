@@ -18,7 +18,7 @@ function ThemeSchemesDoc() {
 				className="mb-16"
 				component="p"
 			>
-				The Fuse React uses material-ui's theming by default. You can create theme color schemes with defining
+				The Projeto Yellow uses material-ui's theming by default. You can create theme color schemes with defining
 				theme configuration objects.
 			</Typography>
 

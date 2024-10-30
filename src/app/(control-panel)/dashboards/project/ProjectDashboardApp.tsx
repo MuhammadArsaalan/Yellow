@@ -61,9 +61,9 @@ function ProjectDashboardApp() {
 							/>
 						</FuseTabs>
 					</div>
-					{tabValue === 'home' && <HomeTab />}
-					{tabValue === 'budget' && <BudgetTab />}
-					{tabValue === 'team' && <TeamTab />}
+					{/* {tabValue === 'home' && <HomeTab />}
+						{tabValue === 'budget' && <BudgetTab />}
+						{tabValue === 'team' && <TeamTab />} */}
 				</div>
 			}
 		/>

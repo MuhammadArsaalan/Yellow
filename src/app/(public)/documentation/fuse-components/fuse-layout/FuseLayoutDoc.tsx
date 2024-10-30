@@ -19,7 +19,7 @@ function FuseLayoutDoc() {
 				className="mb-16"
 				component="p"
 			>
-				<code>FuseLayout</code> is the main layout component of the Fuse React. It allows us to switch theme
+				<code>FuseLayout</code> is the main layout component of the Projeto Yellow. It allows us to switch theme
 				layouts, set layout settings based on the default configuration, and route configs.
 			</Typography>
 

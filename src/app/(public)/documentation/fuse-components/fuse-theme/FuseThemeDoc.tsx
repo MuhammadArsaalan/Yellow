@@ -21,7 +21,7 @@ function FuseThemeDoc() {
 				className="mb-16"
 				component="p"
 			>
-				<code>FuseTheme</code> is the theming component of the Fuse React. It allows us to change predefined
+				<code>FuseTheme</code> is the theming component of the Projeto Yellow. It allows us to change predefined
 				Material UI themes. It should wrap the <code>FuseLayout</code> component.
 			</Typography>
 

@@ -28,7 +28,7 @@ function TailwindCssUI() {
 						className="mb-16"
 						component="p"
 					>
-						Fuse React developed based on Material-UI as ui library.
+						Projeto Yellow developed based on Material-UI as ui library.
 						<a
 							className="mx-4"
 							href="https://mui.com/system/basics/"
@@ -37,7 +37,7 @@ function TailwindCssUI() {
 						>
 							Material-UI's styling solution
 						</a>
-						uses emotion at its core. Therefore the Fuse React supports
+						uses emotion at its core. Therefore the Projeto Yellow supports
 						<a
 							className="mx-4"
 							href="http://cssinjs.org/"
@@ -80,7 +80,7 @@ function TailwindCssUI() {
 							TailwindCSS
 						</a>
 						as an engine for generating helper classes. It's not an UI kit and it's customizable. You can
-						find the config file of Tailwind with named "<b>tailwind.js</b>" under the root of Fuse React.
+						find the config file of Tailwind with named "<b>tailwind.js</b>" under the root of Projeto Yellow.
 					</Typography>
 				</div>
 

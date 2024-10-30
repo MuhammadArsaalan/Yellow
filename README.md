@@ -1,9 +1,9 @@
 
-# Fuse React Versions
+# Projeto Yellow Versions
 ## Available Versions
-- **Fuse React ViteJs** - Single Page Application (SPA)
+- **Projeto Yellow ViteJs** - Single Page Application (SPA)
   - ViteJs offers a fast development experience with its instant server start and hot module replacement, making it ideal for SPAs where quick feedback and performance are crucial.
-- **Fuse React NextJs** - Server Side Rendering (SSR)
+- **Projeto Yellow NextJs** - Server Side Rendering (SSR)
   - NextJs excels in SSR by providing automatic static optimization and server-side rendering capabilities, which enhance SEO and initial load performance, making it perfect for dynamic web applications.
 
 ## GitHub Branches

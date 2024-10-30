@@ -57,7 +57,7 @@ function NotificationPanel() {
 
 	useEffect(() => {
 		const item = NotificationModel({
-			title: 'New Fuse React version is released! ',
+			title: 'New Projeto Yellow version is released! ',
 			description: ' Checkout the release notes for more information. 🚀 ',
 			link: '/documentation/changelog',
 			icon: 'heroicons-solid:fire',
@@ -118,7 +118,7 @@ function NotificationPanel() {
 		<StyledSwipeableDrawer
 			open={state}
 			anchor="right"
-			onOpen={() => {}}
+			onOpen={() => { }}
 			onClose={() => dispatch(toggleNotificationPanel())}
 			disableSwipeToOpen
 		>

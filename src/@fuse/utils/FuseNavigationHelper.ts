@@ -183,7 +183,6 @@ class FuseNavigationHelper {
 		if (!navigation) {
 			return [];
 		}
-
 		return navigation?.flatMap((item, index) => {
 			const order = parentOrder ? `${parentOrder}.${index + 1}` : `${index + 1}`;
 			let flattened: FuseFlatNavItemType[] = [

@@ -24,25 +24,25 @@ function Logo() {
 	return (
 		<Root className="flex flex-1 items-center space-x-12">
 			<div className="flex flex-1 items-center space-x-8 px-10">
-				<img
+				{/* <img
 					className="logo-icon h-32 w-32"
-					src="/assets/images/logo/logo.svg"
+					src="/assets/images/logo/logo.png"
 					alt="logo"
-				/>
+				/> */}
 				<div className="logo-text flex flex-col flex-auto gap-2">
-					<Typography className="text-2xl tracking-light font-semibold leading-none">FUSE</Typography>
+					<Typography className="text-2xl tracking-light font-semibold leading-none">PROJETO</Typography>
 					<Typography
 						className="text-[13.6px] tracking-light font-semibold leading-none"
 						color="primary"
 						sx={{
-							color: '#82d7f7'
+							color: '#FFBE00'
 						}}
 					>
-						REACT
+						YELLOW
 					</Typography>
 				</div>
 			</div>
-			<MainProjectSelection />
+			{/* <MainProjectSelection /> */}
 		</Root>
 	);
 }

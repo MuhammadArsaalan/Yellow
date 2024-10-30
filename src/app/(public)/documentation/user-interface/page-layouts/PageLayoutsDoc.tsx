@@ -54,13 +54,13 @@ function PageLayoutsDoc() {
 				className="mb-16"
 				component="p"
 			>
-				One of the strong sides of the Fuse React is its Page layout components.
+				One of the strong sides of the Projeto Yellow is its Page layout components.
 			</Typography>
 			<Typography
 				className="mb-16"
 				component="p"
 			>
-				Every single app, pre-built pages uses the Fuse React's page layout components.
+				Every single app, pre-built pages uses the Projeto Yellow's page layout components.
 			</Typography>
 			<Typography
 				className="mb-16"

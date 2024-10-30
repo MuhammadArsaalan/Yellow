@@ -56,7 +56,7 @@ type FuseSettingsProps = {
 };
 
 /**
- * The FuseSettings component is responsible for rendering the settings form for the Fuse React application.
+ * The FuseSettings component is responsible for rendering the settings form for the Projeto Yellow application.
  * It uses the useForm hook from the react-hook-form library to handle form state and validation.
  * It also uses various MUI components to render the form fields and sections.
  * The component is memoized to prevent unnecessary re-renders.

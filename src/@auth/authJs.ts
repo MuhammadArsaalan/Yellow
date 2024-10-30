@@ -62,7 +62,7 @@ export const providers: Provider[] = [
 ];
 
 const config = {
-	theme: { logo: '/assets/images/logo/logo.svg' },
+	theme: { logo: '/assets/images/logo/logo.png' },
 	adapter: UnstorageAdapter(storage),
 	pages: {
 		signIn: '/sign-in'

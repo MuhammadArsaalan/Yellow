@@ -4,7 +4,7 @@ import changelogData from './ChangelogData';
 
 /**
  * The changelog doc page.
- * Changelog records all notable changes made to Fuse React.
+ * Changelog records all notable changes made to Projeto Yellow.
  */
 function ChangelogDoc() {
 	return (

@@ -2,7 +2,7 @@ import Typography from '@mui/material/Typography';
 
 /**
  * Introduction Doc
- * This document provides information on how to use Fuse React.
+ * This document provides information on how to use Projeto Yellow.
  */
 function IntroductionDoc() {
 	return (
@@ -24,7 +24,7 @@ function IntroductionDoc() {
 				className="mb-16"
 				component="p"
 			>
-				While Fuse React is a great tool and source for learning React, it also requires at least an entry-level
+				While Projeto Yellow is a great tool and source for learning React, it also requires at least an entry-level
 				of React, Redux knowledge so you can find your way within the source code.
 			</Typography>
 			<Typography
@@ -32,7 +32,7 @@ function IntroductionDoc() {
 				component="p"
 			>
 				Here you can find a list of core libraries, design specifications, and coding standards that we use in
-				Fuse React:
+				Projeto Yellow:
 			</Typography>
 			<Typography
 				className="text-2xl mt-20 mb-10 font-700"

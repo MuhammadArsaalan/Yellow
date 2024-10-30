@@ -2,7 +2,7 @@ import Typography from '@mui/material/Typography';
 
 /**
  * Git Repository Doc
- * This document provides information on how to get the Fuse React's Github repository.
+ * This document provides information on how to get the Projeto Yellow's Github repository.
  */
 function GitRepositoryDoc() {
 	return (
@@ -18,7 +18,7 @@ function GitRepositoryDoc() {
 				className="mb-16"
 				component="p"
 			>
-				You can also check out Fuse React from the Github repository. Fuse React's Github repository is private,
+				You can also check out Projeto Yellow from the Github repository. Projeto Yellow's Github repository is private,
 				you can get an invitation by filling the{' '}
 				<a
 					href="http://support.withinpixels.com/github"

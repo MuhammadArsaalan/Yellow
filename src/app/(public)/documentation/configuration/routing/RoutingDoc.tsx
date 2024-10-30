@@ -7,7 +7,7 @@ import publicLayoutRaw from '@/app/(public)/layout.tsx?raw';
 /**
  * Routing Documentation
  *
- * This document provides detailed information on how to effectively use the routing system in Fuse React.
+ * This document provides detailed information on how to effectively use the routing system in Projeto Yellow.
  * It covers modular route configuration, customization options, and automatic route management.
  */
 
@@ -18,14 +18,14 @@ function RoutingDoc() {
 				variant="h4"
 				className="mb-40 font-700"
 			>
-				Routing in Fuse React with Next.js App Router
+				Routing in Projeto Yellow with Next.js App Router
 			</Typography>
 
 			<Typography
 				className="mb-16"
 				component="p"
 			>
-				Fuse React utilizes Next.js 13's App Router for handling routing in the application. This modern routing
+				Projeto Yellow utilizes Next.js 13's App Router for handling routing in the application. This modern routing
 				system provides a file-system based router built on top of server components, supporting layouts, nested
 				routing, loading states, error handling, and more.
 			</Typography>
@@ -94,7 +94,7 @@ function RoutingDoc() {
 				className="mb-16"
 				component="p"
 			>
-				Fuse React provides a <code>MainLayout</code> component that can be used in <code>layout.tsx</code>{' '}
+				Projeto Yellow provides a <code>MainLayout</code> component that can be used in <code>layout.tsx</code>{' '}
 				files to structure the overall layout of your pages. This component allows you to show or hide various
 				sections of the main theme layout.
 			</Typography>
@@ -132,7 +132,7 @@ function RoutingDoc() {
 				className="mb-16"
 				component="p"
 			>
-				Fuse React includes an <code>AuthGuardRedirect</code> component that can be used to restrict access to
+				Projeto Yellow includes an <code>AuthGuardRedirect</code> component that can be used to restrict access to
 				certain routes based on user roles. Here's an example of how to use it in a control panel layout:
 			</Typography>
 
@@ -184,7 +184,7 @@ function RoutingDoc() {
 				className="mt-32 mb-16"
 				component="p"
 			>
-				By leveraging Next.js App Router and Fuse React's custom components like <code>MainLayout</code> and{' '}
+				By leveraging Next.js App Router and Projeto Yellow's custom components like <code>MainLayout</code> and{' '}
 				<code>AuthGuardRedirect</code>, you can create a powerful, flexible, and secure routing system for your
 				application.
 			</Typography>

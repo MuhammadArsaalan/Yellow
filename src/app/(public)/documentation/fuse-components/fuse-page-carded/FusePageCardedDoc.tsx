@@ -35,7 +35,7 @@ function FusePageCardedDoc() {
 				className="mb-16"
 				component="p"
 			>
-				<code>FusePageCarded</code> is the carded page layout component of the Fuse React.
+				<code>FusePageCarded</code> is the carded page layout component of the Projeto Yellow.
 			</Typography>
 			<Typography
 				className="mb-24"

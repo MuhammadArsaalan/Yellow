@@ -16,7 +16,7 @@ function PurchaseButton(props: PurchaseButtonProps) {
 			<>
 				<span>Purchase</span>
 				<span className="flex items-center space-x-4">
-					<span>FUSE React</span>
+					<span>Projeto Yellowllow</span>
 				</span>
 			</>
 		),

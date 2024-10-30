@@ -19,7 +19,7 @@ function SignInPage() {
 				<CardContent className="mx-auto w-full max-w-320 sm:mx-0 sm:w-320">
 					<img
 						className="w-48"
-						src="/assets/images/logo/logo.svg"
+						src="/assets/images/logo/logo.png"
 						alt="logo"
 					/>
 
@@ -46,15 +46,15 @@ function SignInPage() {
 							color: 'primary.dark'
 						}}
 					>
-						You are browsing <b>Fuse React Demo</b>. Click on the "Sign in" button to access the Demo and
+						You are browsing <b>Projeto Yellow Demo</b>. Click on the "Sign in" button to access the Demo and
 						Documentation.
 					</Box>
 				</CardContent>
 			</Paper>
 
 			<Box
-				className="relative hidden h-full flex-auto items-center justify-center overflow-hidden p-64 md:flex lg:px-112"
-				sx={{ backgroundColor: 'primary.dark', color: 'primary.contrastText' }}
+				className="relative hidden h-full flex-auto !bg-[#FFBE00] items-center justify-center overflow-hidden p-64 md:flex lg:px-112"
+			// sx={{ backgroundColor: 'primary.dark', color: 'primary.contrastText' }}
 			>
 				<svg
 					className="pointer-events-none absolute inset-0"
@@ -119,14 +119,14 @@ function SignInPage() {
 
 				<div className="relative z-10 w-full max-w-2xl">
 					<div className="text-7xl font-bold leading-none text-gray-100">
-						<div>Welcome to</div>
-						<div>our community</div>
+						<div>PROJETO</div>
+						<div>YELLOW</div>
 					</div>
-					<div className="mt-24 text-lg leading-6 tracking-tight text-gray-400">
+					{/* <div className="mt-24 text-lg leading-6 tracking-tight text-gray-400">
 						Fuse helps developers to build organized and well coded dashboards full of beautiful and rich
 						modules. Join us and start building your application today.
-					</div>
-					<div className="mt-32 flex items-center">
+					</div> */}
+					{/* <div className="mt-32 flex items-center">
 						<AvatarGroup
 							sx={{
 								'& .MuiAvatar-root': {
@@ -143,7 +143,7 @@ function SignInPage() {
 						<div className="ml-16 font-medium tracking-tight text-gray-400">
 							More than 17k people joined us, it's your turn
 						</div>
-					</div>
+					</div> */}
 				</div>
 			</Box>
 		</div>

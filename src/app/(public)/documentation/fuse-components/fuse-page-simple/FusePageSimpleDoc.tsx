@@ -35,7 +35,7 @@ function FusePageSimpleDoc() {
 				className="mb-16"
 				component="p"
 			>
-				<code>FusePageSimple</code> is the simple page layout component of the Fuse React.
+				<code>FusePageSimple</code> is the simple page layout component of the Projeto Yellow.
 			</Typography>
 			<Typography
 				className="mb-24"

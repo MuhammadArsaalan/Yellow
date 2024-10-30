@@ -63,7 +63,7 @@ function CodeSplittingDoc() {
 				className="mb-16"
 				component="p"
 			>
-				In all Fuse React applications, we employ lazy-loaded slices and RTK-Query to enhance performance and
+				In all Projeto Yellow applications, we employ lazy-loaded slices and RTK-Query to enhance performance and
 				efficiency.
 			</Typography>
 		</>

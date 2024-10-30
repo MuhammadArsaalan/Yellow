@@ -53,20 +53,20 @@ function NavbarStyle2Content(props: NavbarStyle2ContentProps) {
 				<NavbarPinToggleButton className="h-32 w-32 p-0" />
 			</div>
 
-			<StyledContent
+			{/* <StyledContent
 				className="flex min-h-0 flex-1 flex-col"
 				option={{ suppressScrollX: true, wheelPropagation: false }}
 			>
 				<Navigation layout="vertical" />
-			</StyledContent>
+			</StyledContent> */}
 
-			<GoToDocBox className="mx-12 my-16" />
+			{/* <GoToDocBox className="mx-12 my-16" /> */}
 
-			<Divider />
+			{/* <Divider /> */}
 
-			<div className="p-4 md:p-10 w-full">
+			{/* <div className="p-4 md:p-10 w-full">
 				<UserMenu className="w-full" />
-			</div>
+			</div> */}
 		</Root>
 	);
 }

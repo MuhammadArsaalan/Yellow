@@ -224,7 +224,7 @@ function NavbarStyle2() {
 					variant="temporary"
 					open={navbar.mobileOpen}
 					onClose={() => dispatch(navbarCloseMobile())}
-					onOpen={() => {}}
+					onOpen={() => { }}
 					disableSwipeToOpen
 					ModalProps={{
 						keepMounted: true // Better open performance on mobile.
